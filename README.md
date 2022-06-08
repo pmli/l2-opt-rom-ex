@@ -5,6 +5,7 @@ This repository contains code for numerical experiments reported in
 > P. Mlinarić, S. Gugercin,
 > **$\mathcal{L}_2$-optimal Reduced-order Modeling Using Parameter-Separable
 > Forms**,
+> [*arXiv preprint*](https://arxiv.org/abs/2206.02929),
 > 2022
 
 ## Installation
