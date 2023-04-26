@@ -1,5 +1,7 @@
 # Code for Numerical Experiments in "$\mathcal{L}_2$-optimal Reduced-order Modeling Using Parameter-separable Forms"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6618116.svg)](https://doi.org/10.5281/zenodo.6618116)
+
 This repository contains code for numerical experiments reported in
 
 > P. Mlinarić, S. Gugercin,
