@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 preferred-citation:
-  type: unpublished
+  type: article
   authors:
   - family-names: "Mlinarić"
     given-names: "Petar"
@@ -9,7 +9,12 @@ preferred-citation:
   - family-names: "Gugercin"
     given-names: "Serkan"
     orcid: "https://orcid.org/0000-0003-4564-5999"
-  doi: "10.48550/arXiv.2206.02929"
-  note: "arXiv preprint 2206.02929"
   title: "{$\\mathcal{L}_2$}-optimal Reduced-order Modeling Using Parameter-separable Forms"
-  year: 2022
+  journal: "SIAM J. Sci. Comput."
+  year: 2023
+  month: 4
+  volume: 45
+  number: 2
+  start: A554
+  end: A578
+  doi: "10.1137/22M1500678"
