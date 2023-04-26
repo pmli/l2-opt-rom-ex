@@ -1,20 +1,41 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+title: >-
+  Code for Numerical Experiments in "$\mathcal{L}_2$-optimal
+  Reduced-order Modeling Using Parameter-separable Forms"
+type: software
+authors:
+  - given-names: Petar
+    family-names: Mlinarić
+    email: mlinaric@vt.edu
+    affiliation: Virginia Tech
+    orcid: "https://orcid.org/0000-0002-9437-7698"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6618116
+repository-code: "https://github.com/pmli/l2-opt-rom-ex"
+repository: "https://zenodo.org/record/6618116"
+license: MIT
+commit: 414ccef16f087f303750c3ffaf5c7ee34797441b
+version: v1
+date-released: '2022-06-01'
 preferred-citation:
   type: article
   authors:
-  - family-names: "Mlinarić"
-    given-names: "Petar"
+  - given-names: Petar
+    family-names: Mlinarić
     orcid: "https://orcid.org/0000-0002-9437-7698"
-  - family-names: "Gugercin"
-    given-names: "Serkan"
+  - given-names: Serkan
+    family-names: Gugercin
     orcid: "https://orcid.org/0000-0003-4564-5999"
-  title: "{$\\mathcal{L}_2$}-optimal Reduced-order Modeling Using Parameter-separable Forms"
-  journal: "SIAM J. Sci. Comput."
+  title: >-
+    {$\\mathcal{L}_2$}-optimal Reduced-order Modeling Using
+    Parameter-separable Forms
+  journal: SIAM J. Sci. Comput.
   year: 2023
   month: 4
   volume: 45
   number: 2
   start: A554
   end: A578
-  doi: "10.1137/22M1500678"
+  doi: 10.1137/22M1500678
