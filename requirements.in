@@ -1,0 +1,8 @@
+ipywidgets
+jupytext==1.13.0
+matplotlib==3.3.4
+notebook
+numpy==1.21.2
+pymor==2021.1.0
+PyQt5==5.15.6
+scipy==1.7.1
